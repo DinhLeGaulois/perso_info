@@ -37,28 +37,26 @@ English, French and Vietnamese
 ### WordPress: "www.dinhlegaulois.net"
 
 ### React/Redux/SASS
-> * [**Calculator**](https://github.com/DinhLeGaulois/quiz_MERN_Stack)
-> * [**Job Search Organizer**](https://github.com/DinhLeGaulois/job_search_react_redux_mysql_v2): **Sequelize** + **MySQL**
-> * [**Job Search Organizer**](https://github.com/DinhLeGaulois/job_search_react_redux_sqlite): **Sequelize** + **sqlite3**
-> * [**(fake) Spotify**](https://github.com/DinhLeGaulois/spotify_react_redux_sql_sequelize): **Sequelize** + **MySQL**
+> * [**Calculator**](https://github.com/DinhLeGaulois/projects_without_db/tree/master/projects_with_react/calculator_react_redux)
+> * [**Job Search Organizer**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/job_search_react_redux_mysql): **Sequelize** + **MySQL**
+> * [**Job Search Organizer**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/job_search_react_redux_sqlite): **Sequelize** + **sqlite3**
+> * [**(fake) Spotify**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/spotify_react_redux_sql_sequelize): **Sequelize** + **MySQL**
 
 ### Others (with Database)
 
 |                | No-SQL: **MongoDB/dLab**                                                                       | SQL: **MySQL**                                                                    |
 |-----------|-----------------------------------|-------------------------------|
 |-----------|-----------------------------------|-------------------------------|
-| **ReactJS**    |       * [Quiz](https://github.com/DinhLeGaulois/quiz_MERN_Stack) (**MERN** stack)                 | * [Jobs Search Organizer](https://github.com/DinhLeGaulois/job_search_react_redux_mysql) <br/>(**Redux**, **SASS**)                                                                                 | 
+| **ReactJS**    |       * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MERN_Stack) (**MERN** stack)                 | * [Jobs Search Organizer](https://github.com/DinhLeGaulois/job_search_react_redux_mysql) <br/>(**Redux**, **SASS**)                                                                                 | 
 |                |       * [Jobs Search Organizer](https://github.com/DinhLeGaulois/jobs_search_organizer)           |                                                                                   |
 |-----------|-----------------------------------|-------------------------------|
 |                |                                                                                               | Dewey Decimal Classification                                                      |
-|                | Mobile App (iOS, Android)                                                                     |      * [Books](https://github.com/DinhLeGaulois/dewey_1of5_books)                    | 
-| **Angular 2**  |   * [Quiz](https://github.com/DinhLeGaulois/quiz_MobileApp) (**MEAN** stack with **Ionic2**)  |      * [Quotes](https://github.com/DinhLeGaulois/dewey_2of5_quotes)                  |
-|                | Regular App                                                                                   |      * [Quizzes](https://github.com/DinhLeGaulois/dewey_3of5_quizzes)                | 
-|                |   * [Quiz](https://github.com/DinhLeGaulois/quiz_MEAN_Stack) (**MEAN** Stack)                 | Others                                                                               |
-|                |                                                                                               |      * [Jobs Search Organizer](https://github.com/DinhLeGaulois/job_search_mysql)    |
+|                | Mobile App (iOS, Android)                                                                     |
+| **Angular 2**  |   * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MobileApp) (**MEAN** stack with **Ionic2**)  | 
+|                | Regular App                       | 
+|                |   * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MEAN_Stack) (**MEAN** Stack)                 |    |
 |-----------|-----------------------------------|-------------------------------|
-|  **Others**    |  [Quiz With PHP](https://github.com/DinhLeGaulois/quiz_PHP)   |      * [Burger](https://github.com/DinhLeGaulois/week-14-burger2)                          |
-|                |                                                                                               |      * [Sequelized Burger](https://github.com/DinhLeGaulois/week-15-sequelizedBurger)|
+|  **Others**    |  [Quiz With PHP](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_PHP)   | |
 
 
 ## PREVIOUS WORK EXPERIENCE
