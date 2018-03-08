@@ -48,9 +48,7 @@ English, French and Vietnamese
 |-----------|-----------------------------------|-------------------------------|
 |-----------|-----------------------------------|-------------------------------|
 | **ReactJS**    |       * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MERN_Stack) (**MERN** stack)                 | * [Jobs Search Organizer](https://github.com/DinhLeGaulois/job_search_react_redux_mysql) <br/>(**Redux**, **SASS**)                                                                                 | 
-|                |       * [Jobs Search Organizer](https://github.com/DinhLeGaulois/jobs_search_organizer)           |                                                                                   |
 |-----------|-----------------------------------|-------------------------------|
-|                |                                                                                               | Dewey Decimal Classification                                                      |
 |                | Mobile App (iOS, Android)                                                                     |
 | **Angular 2**  |   * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MobileApp) (**MEAN** stack with **Ionic2**)  | 
 |                | Regular App                       | 
