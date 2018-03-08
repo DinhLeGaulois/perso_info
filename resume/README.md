@@ -46,7 +46,6 @@ English, French and Vietnamese
 
 |                | No-SQL: **MongoDB/dLab**                                                                       | SQL: **MySQL**                                                                    |
 |-----------|-----------------------------------|-------------------------------|
-|-----------|-----------------------------------|-------------------------------|
 | **ReactJS**    |       * [Quiz](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MERN_Stack) (**MERN** stack)                 | * [Jobs Search Organizer](https://github.com/DinhLeGaulois/job_search_react_redux_mysql) <br/>(**Redux**, **SASS**)                                                                                 | 
 |-----------|-----------------------------------|-------------------------------|
 |                | Mobile App (iOS, Android)                                                                     |
