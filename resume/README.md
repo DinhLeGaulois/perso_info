@@ -36,13 +36,7 @@ English, French and Vietnamese
 
 ### WordPress: "www.dinhlegaulois.net"
 
-### React/Redux/SASS
-> * [**Calculator**](https://github.com/DinhLeGaulois/projects_without_db/tree/master/projects_with_react/calculator_react_redux)
-> * [**Job Search Organizer**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/job_search_react_redux_mysql): **Sequelize** + **MySQL**
-> * [**Job Search Organizer**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/job_search_react_redux_sqlite): **Sequelize** + **sqlite3**
-> * [**(fake) Spotify**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/spotify_react_redux_sql_sequelize): **Sequelize** + **MySQL**
-
-### Others (with Database)
+### Projects
 
 |               |                                                      Without Database                                                     |                                                   No-SQL (MongoDB/dLab                                                   |                                                                                                                                                                                                            SQL (MySQL/sqlite)                                                                                                                                                                                                           |
 |---------------|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
